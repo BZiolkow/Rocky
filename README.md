@@ -3,8 +3,9 @@ Shop web application created with the help of MVC course. App has register and l
 shopping cart.
 
 It uses dependency incjection, entity framework, identity, email service. 
+
 Home page
-![image](https://github.com/BZiolkow/Rocky/assets/98949201/453d2ca9-16b5-4b84-84bd-2809fe62268d)
+![image](https://github.com/BZiolkow/Rocky/assets/98949201/b653f8a4-c442-4224-9f38-06a0a061ebdd)
 Product management tab for admin user
 ![image](https://github.com/BZiolkow/Rocky/assets/98949201/14838c86-1f1a-4865-8c22-8081b1490c14)
 Cart
