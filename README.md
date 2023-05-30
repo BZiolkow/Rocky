@@ -2,7 +2,7 @@
 Shop web application created with the help of MVC course. App has register and login functionalities, email service implemented using JetMail, SQL database connection,
 shopping cart.
 
-It uses dependency incjection, entity framework, identity, email service. 
+It uses dependency injection, entity framework, identity, email service. 
 
 Home page
 ![image](https://github.com/BZiolkow/Rocky/assets/98949201/b653f8a4-c442-4224-9f38-06a0a061ebdd)
